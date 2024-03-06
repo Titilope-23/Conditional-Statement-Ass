@@ -37,5 +37,5 @@ let score1 = score.value;
                             else if (score1 === '') {
                                 document.getElementById("result").innerHTML = "PLEASE INPUT YOUR SCORE";
                             
-                                }
+                                }ghghhg
  }
