@@ -32,7 +32,7 @@ let score1 = score.value;
                         
                         }
                         else if (score1 >= 100) {
-                            document.getElementById("result").innerHTML = "The should be in-between 0 - 100";
+                            document.getElementById("result").innerHTML = "Invalid Score";
                                 
                             }
                             else if (score1 === '') {
