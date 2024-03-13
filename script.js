@@ -2,7 +2,7 @@ function checkScore(){
 let score1 = score.value;
 
 
-    if (score1 > 0 && score1 < 40) {
+    if (score1 >= 0 && score1 < 40) {
         document.getElementById("result").innerHTML = "Fail";
         
     } else if (score1 >= 39 && score1 < 45) {
