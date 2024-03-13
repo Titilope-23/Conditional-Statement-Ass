@@ -32,7 +32,7 @@ let score1 = score.value;
                         
                         }
                         else if (score1 >= 100) {
-                            document.getElementById("result").innerHTML = "Pls reduce the number";
+                            document.getElementById("result").innerHTML = "The should be in-between 0 - 100";
                                 
                             }
                             else if (score1 === '') {
