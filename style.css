@@ -31,3 +31,19 @@
     background-color: burlywood;
     margin-right: 10%;
 }
+
+
+
+
+@media screen and (max-width: 550px) {
+    .bgcolor{
+        background-color: #650cbc;
+        height: 30vh;
+        width: 80%;
+        margin-left: 10%;
+        margin-top: 10%;
+       color: white; 
+        
+    }
+    
+}
